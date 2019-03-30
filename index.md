@@ -54,7 +54,12 @@ Aus den öffentlich zugänglichen Daten (Lärmmodel BAFU) geht hervor
 dass schon jetzt vorallem Nachts die Grenzwerte weiträumig
 überschritten werden.  Mit dem Ausbau wird das Verschlimmert.  Dies
 ist schön ersichtlich auf diesen Karten
-[[link](https://github.com/schlosstal/schlosstal.github.io/files/3025740/laerm-karten-schlosstal.pdf)].
+[[link](https://github.com/schlosstal/schlosstal.github.io/files/3025740/laerm-karten-schlosstal.pdf)],
+die vom Jetzt-Zustand als Bild.
+
+![Lärm Nacht](https://user-images.githubusercontent.com/4098145/55279320-8c999100-530f-11e9-9a02-97a6b19ae6ac.png)
+Lärmbelastung Nachts laut BAFU Model (PW = Planungswert, GW =
+Grenzwert, AW = Alarmwert)
 
 ### Warum jetzt?
 
