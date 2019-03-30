@@ -10,6 +10,7 @@ Lärmschutzmassnahmen fürs Schlosstal vor
 - Eine solche Eingabe ist am wirkungsvollsten wenn sie möglichst viele
 Betroffene eingeben
 
+
 **Anleitung um Ihre eigene Eingabe nach unserer Vorlage zu machen:**
 1. download des von uns Vor-ausgefüllten "Elektronischen Formulars zur
 Mitwirkung": [link]()
@@ -21,6 +22,7 @@ senden mit
   - Inhalt "Bitte finden sie im Anhang meine Eingabe zur Teilrevision
   Richtplan Kanton Zürich 2018. MfG, ..."
   - Attachment nicht vergessen!
+
 
 Punkt (2) ist leider nur möglich mit einer neuen Version des Adobe
 Reader Programms welches gratis runtergeladen werden kann
@@ -43,9 +45,12 @@ Dort wird nun neu eine "Halbüberdeckung Schlosstal" aufgeführt
 p. 20, 38, 67), welche aber ein viel zu kurzes Stück ist um wirksamen
 Lärmschutz für den grössten Teil des Schlosstals zu bieten (siehe Kartenausschnitt).
 
+
 ![Halbüberdeckung](https://user-images.githubusercontent.com/4098145/55277638-6f0dfc80-52fa-11e9-8fd2-f5aef077363f.png
 "vom Richtplan ZH 2018")
+
 *Die zu kurze Halbüberdeckung des Richtplan Teilrevision 2018 Entwurf*
+
 
 Dieses Halbüberdeckung wurde auf Grund einer Studie vom Bundesamt für
 Strassen (ASTRA) so geplant, wobei keine genaueren Angaben erhältlich sind
@@ -58,6 +63,7 @@ Nägelseeholz" genannt
 - [link](https://www.landbote.ch/winterthur/standard/jetzt-darf-auch-toess-auf-einen-autobahndeckel-hoffen/story/18610555)
   zu Landbote Artikel
 
+
 Aus öffentlich zugänglichen Daten (Lärmmodel BAFU) geht hervor
 dass schon jetzt schon vorallem Nachts die Grenzwerte weiträumig
 überschritten werden.  Mit dem Ausbau wird das Verschlimmert.  Dies
@@ -65,8 +71,10 @@ ist schön ersichtlich auf diesen Karten
 [[link](https://github.com/schlosstal/schlosstal.github.io/files/3025882/laerm-karten-schlosstal.pdf)],
 die vom Jetzt-Zustand als Bild.
 
+
 ![Lärm Nacht](https://user-images.githubusercontent.com/4098145/55280929-4bf84280-5324-11e9-86ef-21fcd4f0aca9.png)
 *Momentane Lärmbelastung Nachts laut BAFU Model*
+
 
 Die Lärmbelastung durch die A1 in Winterthur ist schon lange
 Diskussionsthema.  Einen guten Überblick gibt die Antwort des
