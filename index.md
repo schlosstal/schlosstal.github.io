@@ -1,5 +1,5 @@
 ---
-title: A1 Lärmschutz im Schlosstal
+title: A1 Lärmschutz im Schlosstal: Jetzt oder nie
 ---
 
 Kurzfassung:
