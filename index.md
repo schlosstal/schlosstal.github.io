@@ -1,13 +1,13 @@
 ---
-title: Gruppe für Lärmschutz im Schlosstal
+title: A1 Lärmschutz im Schlosstal
 ---
 
 Kurzfassung:
 - Teilrevision 2018 Richtplan ZH sieht ungenügende
 Lärmschutzmassnahmen fürs Schlosstal vor
-- Wir machen Eingaben (Frist 12.4.2019) um besseren Lärmschutz im
-Richtplan zu verankern.
-- Diese Eingabe ist wohl am wirkungsvollsten wenn sie möglichst viele
+- Eingaben (Frist 12.4.2019) um besseren Lärmschutz im
+Richtplan zu verankern können gemacht werden
+- Eine solche Eingabe ist wohl am wirkungsvollsten wenn sie möglichst viele
 Betroffene eingeben.
 
 Anleitung Ihre eigene Eingabe nach unserer Vorlage zu machen:
@@ -50,10 +50,22 @@ zum Faktenblatt "Überdeckung Schlosstal" hier "Halbüberdeckung
 Nägelseeholz" genannt), wobei keine genaueren Angaben erhältlich sind
 wie diese Variante zustande gekommen ist.
 
+Aus den öffentlich zugänglichen Daten (Lärmmodel BAFU) geht hervor
+dass schon jetzt vorallem Nachts die Grenzwerte weiträumig
+überschritten werden.  Mit dem Ausbau wird das Verschlimmert.  Dies
+ist schön ersichtlich auf diesen Karten
+[[link](https://github.com/schlosstal/schlosstal.github.io/files/3025740/laerm-karten-schlosstal.pdf)].
+
+### Warum jetzt?
+
+Wenn die Lärmschutzmassnahmen im Richtplan verankert sind, dann trägt
+der Bund und Kanton einen grossen Teil der Kosten.  Sonst müsste
+Winterthur die Massnahmen alleine bezahlen (was nicht geht).
+
 Wir werden deshalb eine Eingabe machen um den Lärmschutz fürs ganze
 Schlosstal im Richtplan zu verankern.
 
-## Text unserer Eingabe (was in der PDF Vorlage ist)
+## Text unserer Eingabe (was in unserer PDF Vorlage steht)
 
 ### Antrag
 
@@ -67,20 +79,21 @@ Wir beantragen:
 
 ### Begründung
 
-Wir begrüssen es sehr, dass mit der Halbüberdeckung Schlosstal endlich
+Wir begrüssen es, dass mit der Halbüberdeckung Schlosstal endlich
 eine Lärmschutzmassnahme für das Quartier Töss im Richtplan
 aufgenommen wird.  Leider wird der Teil des Schlosstals auf Wülflinger
 Boden, im folgenden wülflinger Schlosstal genannt, nicht berücksichtigt.
 
 Die AnwohnerInnen der A1-Umfahrung leiden schon seit Jahren unter dem
-enormen Autobahnlärm. Im wülflinger Schlosstal leben 1'600 Personen,
-im Stadtteil Töss leben rund 10'000 Personen. Das Quartier Töss und
+enormen Autobahnlärm welcher in grossen Gebieten die Grenzwerte
+überschreitet. Im wülflinger Schlosstal leben 1'600 Personen, im
+Stadtteil Töss leben rund 10'000 Personen. Das Quartier Töss und das
 wülflinger Schlosstal setzen sich schon seit Jahren für einen besseren
 Lärmschutz ein. Bereits im Jahr 2012 forderte eine Petition mit 1179
 Unterschriften einen besseren Lärmschutz.
 
 Mit dem Ausbau der A1 auf sechs Spuren ist eine weitere Zunahme des
-Autobahnlärms zu befürchten, so dass ein besserer Lärmschutz für die
+Autobahnlärms zu erwarten, so dass ein besserer Lärmschutz für die
 ganze Strecke von Wülflingen bis zur Steig zwingend notwendig ist. Da
 Töss und das wülflinger Schlosstal auch von anderen Strassen und der
 Eisenbahnlinie nach Zürich und Bülach stark belastet ist, sollte beim
@@ -90,25 +103,22 @@ getan werden.
 Mit der vorgesehenen Halbüberdeckung beim Nägelseeholz werden nun das
 Nägelsee-Quartier, der Chrugeler und ein Teil des Brühlbergs einen
 effektiven Lärmschutz erhalten. Ebenfalls vor Lärm geschützt werden
-sollten aber auch die zahlreichen AnwohnerInnen im Schlosstal in
-Richtung Wülflingen, im Dättnau und im Quartier Steig.  Im weiteren
-dieser Begründung gehen wir auf die Situation im wülflinger Schlosstal
-ein.
+sollten aber auch die zahlreichen AnwohnerInnen wülflinger Schlosstal,
+im Dättnau und im Quartier Steig.  Im weiteren dieser Begründung gehen
+wir auf die Situation im wülflinger Schlosstal ein.
 
 Die Lärmbelastung im wülflinger Schlosstal ist durch die Topographie
-des engen Schlosstals und der Bebauung und Nutzung der Talflanken
-besonders prekär.  Das Lärmmodel des BAFUs (Karten beigelegt) zeigt,
-dass schon jetzt nachts der Grenzwert (50dB) grossflächig
+des engen Schlosstals und der Bebauung der Talflanken besonders
+prekär.  Das Lärmmodel des BAFU (Karten auf https://git.io/lk.pdf)
+zeigt, dass schon jetzt nachts der Grenzwert (50dB) grossflächig
 überschritten wird und tagsüber weite Bereiche nahe oder über dem
-Grenzwert (60dB) liegen.  Des weiteren werden die Planungswerte (55dB
-Tag, 45dB Nacht) schon jetzt an fast allen erhöhten Lagen zum Teil
-deutlich überschritten.  Mit einem Ausbau der A1 ist eine deutliche
-Ausweitung der betroffenen Gebiete zu erwarten.
+Grenzwert (60dB) liegen.  Mit einem Ausbau der A1 ist eine deutliche
+Ausweitung der betroffenen Gebiete zu erwarten (siehe Karten).
 
 Deshalb fordern wir, dass Lärmschutzmassnahmen entlang der A1 im
 wülflinger Schlosstal (zwischen der geplanten Halbüberdeckung und
 Wespimühle in Wülflingen) im Richtplan aufgenommen werden, welche
-folgenden Anforderungen genügen: die Einhaltung der Grenzwerte in
-Zukunft garantieren, möglichst die Lärmbelastung in den
+folgenden Anforderungen genügen: Garantie der Einhaltung der
+Grenzwerte in Zukunft, möglichst die Lärmbelastung in den
 Naherholungsgebieten Bruelberg und Hochwülflingen reduzieren, und
-die Landschaftlich vertretbar sind.
+Landschaftsbild soweit möglich schonen.
