@@ -2,24 +2,29 @@
 title: A1 Lärmschutz im Schlosstal "Jetzt oder nie"
 ---
 
-Kurzfassung:
+**Kurzfassung:**
 - Teilrevision 2018 Richtplan ZH sieht ungenügende
 Lärmschutzmassnahmen fürs Schlosstal vor
-- Eingaben (Frist 12.4.2019) um besseren Lärmschutz im
-Richtplan zu verankern können gemacht werden
-- Eine solche Eingabe ist wohl am wirkungsvollsten wenn sie möglichst viele
-Betroffene eingeben.
+- Eingaben um besseren Lärmschutz im Richtplan zu verankern können
+  gemacht werden *(Frist 12.4.2019)*
+- Eine solche Eingabe ist am wirkungsvollsten wenn sie möglichst viele
+Betroffene eingeben
 
-Anleitung Ihre eigene Eingabe nach unserer Vorlage zu machen:
+**Anleitung um Ihre eigene Eingabe nach unserer Vorlage zu machen:**
 1. download des von uns Vor-ausgefüllten "Elektronischen Formulars zur
-Mitwirkung" [link]().
+Mitwirkung": [link]()
 2. Einfüllen von Persönlichen Angaben im PDF (Name & Adresse) und
   abspeichern
-3. Per Email an [richtplan@bd.zh.ch](richtplan@bd.zh.ch) senden mit dem Betreff
-  **"Lärmschutz Schlosstal Wülflingen"**
+3. Per Email-attachment an [richtplan@bd.zh.ch](richtplan@bd.zh.ch)
+senden mit
+  - Betreff **"Lärmschutz A1 Schlosstal Wülflingen"**
+  - Inhalt "Bitte finden sie im Anhang meine Eingabe zum Teilrevision
+  Richtplan Kanton Zürich 2018. MfG, ..."
+  - Attachment nicht vergessen!
 
 Punkt (2) ist leider nur möglich mit einer neuen Version des Adobe
-Reader Programms welches gratis runtergeladen werden kann.  Falls dies
+Reader Programms welches gratis runtergeladen werden kann
+([link](https://get.adobe.com/de/reader/otherversions/)).  Falls dies
 für Sie nicht möglich ist, dann kontaktieren sie Evelyne Zefferer <a
 href="javascript:location='mailto:\u0065\u0077\u007a\u0040\u0067\u006d\u0078\u002e\u0063\u0068';void
 0"><script
@@ -42,24 +47,33 @@ Lärmschutz für den grössten Teil des Schlosstals zu bieten (siehe Kartenaussc
  "vom Richtplan ZH 2018")
 
 Dieses Halbüberdeckung wurde auf Grund einer Studie vom Bundesamt für
-Strassen (ASTRA) so geplant
-([link](https://www.astra.admin.ch/astra/de/home/themen/nationalstrassen/baustellen/nordostschweiz/a1-winterthur-toess-winterthur-ost-6-spurausbau/projektuebersicht.html)
-zur Projektübersicht A1 Ausbau auf 6-8 Spuren,
-[link](https://github.com/schlosstal/schlosstal.github.io/files/3025622/18_08_29_6SP_Faktenblatt_HUED_Nagelseeholz_V1.pdf)
-zum Faktenblatt "Überdeckung Schlosstal" hier "Halbüberdeckung
-Nägelseeholz" genannt), wobei keine genaueren Angaben erhältlich sind
+Strassen (ASTRA) so geplant, wobei keine genaueren Angaben erhältlich sind
 wie diese Variante zustande gekommen ist.
+- [link](https://www.astra.admin.ch/astra/de/home/themen/nationalstrassen/baustellen/nordostschweiz/a1-winterthur-toess-winterthur-ost-6-spurausbau/projektuebersicht.html)
+zur Projektübersicht A1 Ausbau auf 6-8 Spuren
+- [link](https://github.com/schlosstal/schlosstal.github.io/files/3025622/18_08_29_6SP_Faktenblatt_HUED_Nagelseeholz_V1.pdf)
+zum Faktenblatt "Überdeckung Schlosstal" hier "Halbüberdeckung
+Nägelseeholz" genannt
 
 Aus den öffentlich zugänglichen Daten (Lärmmodel BAFU) geht hervor
-dass schon jetzt vorallem Nachts die Grenzwerte weiträumig
+dass schon jetzt schon vorallem Nachts die Grenzwerte weiträumig
 überschritten werden.  Mit dem Ausbau wird das Verschlimmert.  Dies
 ist schön ersichtlich auf diesen Karten
-[[link](https://github.com/schlosstal/schlosstal.github.io/files/3025740/laerm-karten-schlosstal.pdf)],
+[[link](https://github.com/schlosstal/schlosstal.github.io/files/3025882/laerm-karten-schlosstal.pdf)],
 die vom Jetzt-Zustand als Bild.
 
-![Lärm Nacht](https://user-images.githubusercontent.com/4098145/55279320-8c999100-530f-11e9-9a02-97a6b19ae6ac.png)
-Lärmbelastung Nachts laut BAFU Model (PW = Planungswert, GW =
-Grenzwert, AW = Alarmwert)
+![Lärm Nacht](https://user-images.githubusercontent.com/4098145/55280929-4bf84280-5324-11e9-86ef-21fcd4f0aca9.png)
+*Lärmbelastung Nachts laut BAFU Model*
+
+Die Lärmbelastung durch die A1 in Winterthur ist schon lange
+Diskussionsthema.  Einen guten Überblick gibt die Antwort des
+Stadtrats auf die Einzelinitiative betr. Lärmschutz entlang der
+A1-Umfahrung von Rosmarie Peter und anderen (2012):
+[link](http://gemeinderat.winterthur.ch/dl.php/de/iwebi_570cb33c41a93/13_023347.pdf).
+Interessanterweise wird darin aber das wülflinger Schlosstal nicht als
+Wohngebiet behandelt, sondern nur als Naherholungsgebiet (siehe Karte
+letzte Seite).
+
 
 ### Warum jetzt?
 
@@ -67,8 +81,8 @@ Wenn die Lärmschutzmassnahmen im Richtplan verankert sind, dann trägt
 der Bund und Kanton einen grossen Teil der Kosten.  Sonst müsste
 Winterthur die Massnahmen alleine bezahlen (was nicht geht).
 
-Wir werden deshalb eine Eingabe machen um den Lärmschutz fürs ganze
-Schlosstal im Richtplan zu verankern.
+Deshalb ist diese Eingabe um den Lärmschutz fürs ganze Schlosstal im
+Richtplan zu verankern wichtig.
 
 ## Text unserer Eingabe (was in unserer PDF Vorlage steht)
 
@@ -114,7 +128,7 @@ wir auf die Situation im wülflinger Schlosstal ein.
 
 Die Lärmbelastung im wülflinger Schlosstal ist durch die Topographie
 des engen Schlosstals und der Bebauung der Talflanken besonders
-prekär.  Das Lärmmodel des BAFU (Karten auf https://git.io/lk.pdf)
+prekär.  Das Lärmmodel des BAFU (Karten auf https://git.io/lk1.pdf)
 zeigt, dass schon jetzt nachts der Grenzwert (50dB) grossflächig
 überschritten wird und tagsüber weite Bereiche nahe oder über dem
 Grenzwert (60dB) liegen.  Mit einem Ausbau der A1 ist eine deutliche
