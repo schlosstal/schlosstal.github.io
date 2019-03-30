@@ -11,15 +11,19 @@ Richtplan zu verankern.
 Betroffene eingeben.
 
 Anleitung um eine Eingabe zu machen:
-1) download des von uns Vorbereiteten "Elektronischen Formulars zur
+1. download des von uns Vorbereiteten "Elektronischen Formulars zur
 Mitwirkung" [link]().
-2) Einfüllen von Persönlichen Angaben im PDF (Name & Adresse) und
+2. Einfüllen von Persönlichen Angaben im PDF (Name & Adresse) und
   abspeichern
-3) Per Email an richtplan@bd.zh.ch senden mit dem Betreff
+3. Per Email an [richtplan@bd.zh.ch](richtplan@bd.zh.ch) senden mit dem Betreff
   **"Lärmschutz Schlosstal Wülflingen"**
 
 Punkt (2) ist nur möglich mit einer neuen Version des Adobe Reader
-Programms welches gratis runtergeladen werden kann.
+Programms welches gratis runtergeladen werden kann.  Falls dies für
+Sie nicht möglich ist, dann können Sie Evelyne Zefferer <a
+href="javascript:location='mailto:\u0065\u0077\u007a\u0040\u0067\u006d\u0078\u002e\u0063\u0068';void
+0"><script
+type="text/javascript">document.write('\u0065\u0077\u007a\u0040\u0067\u006d\u0078\u002e\u0063\u0068')</script></a> kontaktieren.
 
 **Merci!**
 
