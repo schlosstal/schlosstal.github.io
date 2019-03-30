@@ -18,7 +18,7 @@ Mitwirkung": [link]()
 3. Per Email-attachment an [richtplan@bd.zh.ch](richtplan@bd.zh.ch)
 senden mit
   - Betreff **"Lärmschutz A1 Schlosstal Wülflingen"**
-  - Inhalt "Bitte finden sie im Anhang meine Eingabe zum Teilrevision
+  - Inhalt "Bitte finden sie im Anhang meine Eingabe zur Teilrevision
   Richtplan Kanton Zürich 2018. MfG, ..."
   - Attachment nicht vergessen!
 
@@ -31,7 +31,7 @@ href="javascript:location='mailto:\u0065\u0077\u007a\u0040\u0067\u006d\u0078\u00
 type="text/javascript">document.write('\u0065\u0077\u007a\u0040\u0067\u006d\u0078\u002e\u0063\u0068')</script></a>
 und sie kann es für sie ausfüllen.
 
-**Merci!**
+**Merci! Evelyne Zefferer & Mauro Werder**
 
 ## Details
 
@@ -55,7 +55,7 @@ zur Projektübersicht A1 Ausbau auf 6-8 Spuren
 zum Faktenblatt "Überdeckung Schlosstal" hier "Halbüberdeckung
 Nägelseeholz" genannt
 
-Aus den öffentlich zugänglichen Daten (Lärmmodel BAFU) geht hervor
+Aus öffentlich zugänglichen Daten (Lärmmodel BAFU) geht hervor
 dass schon jetzt schon vorallem Nachts die Grenzwerte weiträumig
 überschritten werden.  Mit dem Ausbau wird das Verschlimmert.  Dies
 ist schön ersichtlich auf diesen Karten
