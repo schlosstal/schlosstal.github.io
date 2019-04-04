@@ -70,8 +70,10 @@ wie diese Variante zustande gekommen ist.
 - [link](https://www.astra.admin.ch/astra/de/home/themen/nationalstrassen/baustellen/nordostschweiz/a1-winterthur-toess-winterthur-ost-6-spurausbau/projektuebersicht.html)
 zur Projektübersicht A1 Ausbau auf 6-8 Spuren
 - [link](https://github.com/schlosstal/schlosstal.github.io/files/3025622/18_08_29_6SP_Faktenblatt_HUED_Nagelseeholz_V1.pdf)
-zum Faktenblatt "Überdeckung Schlosstal" hier "Halbüberdeckung
+zum ASTRA-Faktenblatt "Überdeckung Schlosstal" hier "Halbüberdeckung
 Nägelseeholz" genannt
+- [link](https://github.com/schlosstal/schlosstal.github.io/files/3045116/N01_6Spurausbau_Winterthur.pdf) zum ASTRA-Faktenblatt 
+  Winterthur A1 6-Spurausbau
 - [link](https://www.landbote.ch/winterthur/standard/jetzt-darf-auch-toess-auf-einen-autobahndeckel-hoffen/story/18610555)
   zu Landbote Artikel
 
