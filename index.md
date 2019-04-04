@@ -6,7 +6,7 @@ title: A1 Lärmschutz im Schlosstal "Jetzt oder nie"
 - Teilrevision 2018 Richtplan ZH sieht ungenügende
 Lärmschutzmassnahmen fürs Schlosstal vor
 - Eingaben um besseren Lärmschutz im Richtplan zu verankern können
-  gemacht werden  \
+  gemacht werden  
   **(Frist 12.4.2019)**
 - Eine solche Eingabe ist am wirkungsvollsten wenn sie möglichst viele
 Betroffene eingeben
