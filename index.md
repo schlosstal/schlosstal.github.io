@@ -6,14 +6,15 @@ title: A1 Lärmschutz im Schlosstal "Jetzt oder nie"
 - Teilrevision 2018 Richtplan ZH sieht ungenügende
 Lärmschutzmassnahmen fürs Schlosstal vor
 - Eingaben um besseren Lärmschutz im Richtplan zu verankern können
-  gemacht werden *(Frist 12.4.2019)*
+  gemacht werden **(Frist 12.4.2019)**
 - Eine solche Eingabe ist am wirkungsvollsten wenn sie möglichst viele
 Betroffene eingeben
 
 
 **Anleitung um Ihre eigene Eingabe nach unserer Vorlage zu machen:**
 1. download des von uns Vor-ausgefüllten "Elektronischen Formulars zur
-Mitwirkung": [https://git.io/A1-laerm](https://git.io/A1-laerm)
+Mitwirkung":
+[https://git.io/A1-laerm](https://git.io/A1-laerm)
 2. Einfüllen von Persönlichen Angaben im PDF (Name & Adresse) und
   abspeichern
 3. Per Email-attachment an [richtplan@bd.zh.ch](richtplan@bd.zh.ch)
