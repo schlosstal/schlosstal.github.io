@@ -28,12 +28,15 @@ senden mit
   - Attachment nicht vergessen!
 
 
-Punkt (2) ist leider nur möglich mit einer neuen Version des Adobe
-Reader Programms welches gratis runtergeladen werden kann
-([link](https://get.adobe.com/de/reader/otherversions/)).  
-Damit das PDF nicht direkt vom Browser selber geoeffnet wird: Speichern Sie das 
-PDF-Formular lokal auf Ihrem Computer (rechts-klick -> speicher unter) und offnen sie dieses 
-anschliessend mit der aktuellsten Version des Adobe Reader. 
+**Bei Problemen mit dem PDF:**
+
+Das PDF darf nicht direkt vom Browser geoeffnet werden, darum:
+Speichern sie das PDF-Formular lokal auf Ihrem Computer (rechts-klick
+-> Speichern unter) und offnen sie dieses anschliessend mit einer
+aktuellen Version des Adobe Reader (mit anderen PDF-Programmen geht
+das nicht).  Eine neuen Version des Adobe Reader Programms kann
+gratis runtergeladen werden:
+[link](https://get.adobe.com/de/reader/otherversions/).
 
 Falls dies
 für Sie nicht möglich ist, dann kontaktieren sie Evelyne Zefferer <a
