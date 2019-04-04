@@ -12,8 +12,9 @@ Betroffene eingeben
 
 
 **Anleitung um Ihre eigene Eingabe nach unserer Vorlage zu machen:**
-1. download des von uns Vor-ausgefüllten "Elektronischen Formulars zur
+1. Download des von uns Vor-ausgefüllten "Elektronischen Formulars zur
 Mitwirkung":
+
 [https://git.io/A1-laerm](https://git.io/A1-laerm)
 2. Einfüllen von Persönlichen Angaben im PDF (Name & Adresse) und
   abspeichern
