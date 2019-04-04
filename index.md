@@ -16,6 +16,8 @@ Betroffene eingeben
 1. Download des von uns Vor-ausgefüllten "Elektronischen Formulars zur Mitwirkung":
 
    [https://git.io/A1-laerm](https://git.io/A1-laerm)
+
+   Siehe unten bei Problemen.
 2. Einfüllen von Persönlichen Angaben im PDF (Name & Adresse) und
   abspeichern
 3. Per Email-attachment an [richtplan@bd.zh.ch](richtplan@bd.zh.ch)
@@ -28,7 +30,12 @@ senden mit
 
 Punkt (2) ist leider nur möglich mit einer neuen Version des Adobe
 Reader Programms welches gratis runtergeladen werden kann
-([link](https://get.adobe.com/de/reader/otherversions/)).  Falls dies
+([link](https://get.adobe.com/de/reader/otherversions/)).  
+Damit das PDF nicht direkt vom Browser selber geoeffnet wird: Speichern Sie das 
+PDF-Formular lokal auf Ihrem Computer (rechts-klick -> speicher unter) und offnen sie dieses 
+anschliessend mit der aktuellsten Version des Adobe Reader. 
+
+Falls dies
 für Sie nicht möglich ist, dann kontaktieren sie Evelyne Zefferer <a
 href="javascript:location='mailto:\u0065\u0077\u007a\u0040\u0067\u006d\u0078\u002e\u0063\u0068';void
 0"><script
