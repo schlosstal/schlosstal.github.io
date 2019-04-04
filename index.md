@@ -13,7 +13,7 @@ Betroffene eingeben
 
 **Anleitung um Ihre eigene Eingabe nach unserer Vorlage zu machen:**
 1. download des von uns Vor-ausgefüllten "Elektronischen Formulars zur
-Mitwirkung": [link]()
+Mitwirkung": [https://schlosstal.github.io/st.pdf](https://schlosstal.github.io/st.pdf)
 2. Einfüllen von Persönlichen Angaben im PDF (Name & Adresse) und
   abspeichern
 3. Per Email-attachment an [richtplan@bd.zh.ch](richtplan@bd.zh.ch)
